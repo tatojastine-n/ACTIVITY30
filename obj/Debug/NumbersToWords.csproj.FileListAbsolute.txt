@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\NumbersToWords\bin\Debug\NumbersToWords.exe.config
+C:\Users\HP\source\repos\NumbersToWords\bin\Debug\NumbersToWords.exe
+C:\Users\HP\source\repos\NumbersToWords\bin\Debug\NumbersToWords.pdb
+C:\Users\HP\source\repos\NumbersToWords\obj\Debug\NumbersToWords.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NumbersToWords\obj\Debug\NumbersToWords.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NumbersToWords\obj\Debug\NumbersToWords.exe
+C:\Users\HP\source\repos\NumbersToWords\obj\Debug\NumbersToWords.pdb
